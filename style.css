@@ -42,9 +42,6 @@ body {
   font-weight: 700;
 }
 .text p {
-  width: 288px;
-  height: 131px;
-  padding: 0 16px;
   color: hsl(216, 15%, 48%);
   font-weight: 400;
 }
